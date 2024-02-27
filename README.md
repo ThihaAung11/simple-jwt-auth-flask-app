@@ -1,1 +1,1 @@
-# simple-jwt-auth-flask-app
+# Simple auth flask app with jwt
